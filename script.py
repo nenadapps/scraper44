@@ -90,8 +90,6 @@ def get_details(html, base_cat_name, cat_name):
 def get_page_items(url):
 
     items = []
-    
-    url = 'https://stampauctionnetwork.com/go/go228.cfm'
 
     base_cat_name = ''
     cat_name = ''
